@@ -193,7 +193,7 @@ if(!isset($_POST['billingSameAsShipping'])){
     }
 
     echo json_encode($data);
-    exit;
+    exit; 
      
 
 
